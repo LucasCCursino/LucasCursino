@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @LucasCursino
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java development
-- 📫 How to reach me call me? Telegram/ WhatsApp:48998354946
-
-
+- 🌱 I’m currently learning Javascript and PHP
+- 💞️ I’m looking to collaborate on Web development
+- 📫 Contact me on Telegram / WhatsApp:(48) 98879-0557
